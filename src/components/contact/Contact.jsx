@@ -19,7 +19,7 @@ const Contact = () => {
                 <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
             </div>
             <div class="mb-3">
-                <label for="exampleInputEmail1" className="form-label">Email address</label>
+                <label for="exampleInputEmail1" className="form-label">Message</label>
                 <input type="email" className="form-control" id="exampleInputEmail2" required aria-describedby="emailHelp"/>
             </div>
             <div class="mb-3 form-check">
